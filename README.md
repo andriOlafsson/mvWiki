@@ -1,2 +1,0 @@
-# mvWiki
-test fyrir mv
